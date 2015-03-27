@@ -17,7 +17,7 @@
   ],
   "dependencies": {
     "broccoli-filter": "~0.1.x",
-    "coffee-react-transform": "~0.5.2"
+    "coffee-react-transform": "~3.0.1"
   },
   "devDependencies": {
     "broccoli": "0.12.x",
