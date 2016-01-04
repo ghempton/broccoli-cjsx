@@ -16,7 +16,7 @@
     "compile"
   ],
   "dependencies": {
-    "broccoli-filter": "~0.1.x",
+    "broccoli-filter": "~1.2.x",
     "coffee-react-transform": "~3.0.1"
   },
   "devDependencies": {
