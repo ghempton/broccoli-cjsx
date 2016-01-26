@@ -1,7 +1,7 @@
 {
   "name": "broccoli-cjsx",
   "description": "Coffescript React JSX filter for Broccoli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Gordon L. Hempton <ghempton@gmail.com>",
   "main": "index.js",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "compile"
   ],
   "dependencies": {
-    "broccoli-filter": "~0.1.x",
+    "broccoli-filter": "~1.2.x",
     "coffee-react-transform": "~3.0.1"
   },
   "devDependencies": {
